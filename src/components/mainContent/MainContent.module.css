@@ -1,0 +1,62 @@
+.mainContentContainer {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  max-width: 1300px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.productFilters {
+  display: flex;
+  justify-content: space-between;
+}
+.productFilterItem {
+  background-color: #00d8ff;
+  max-height: 50px;
+  margin: 0px 10px 10px 0px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  padding: 5px;
+  align-content: center;
+}
+.filterText {
+  margin: 0;
+}
+.cardContainer {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  max-width: 1300px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.filterContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.filterItem {
+  border: 1px solid #00d8ff;
+  border-radius: 50px;
+  font-style: bold;
+  font-size: 35px;
+  padding: 5px;
+  color: #00d8ff;
+  cursor: pointer;
+}
+.filterItemActive {
+  border: 1px solid #00d8ff;
+  border-radius: 50px;
+  font-style: bold;
+  font-size: 35px;
+  padding: 5px;
+  color: #fff;
+  background-color: #00d8ff;
+  cursor: pointer;
+}

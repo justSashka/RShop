@@ -1,0 +1,25 @@
+.headerContainer {
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.headerLogo {
+  max-width: 100px;
+}
+.headerMenu {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.headerMenuItem {
+  background-color: #00d8ff;
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  border-radius: 8px;
+  text-align: center;
+  padding: 3px;
+  margin-right: 20px;
+}

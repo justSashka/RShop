@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "imgUrl": "ssilka",
+    "title": "React Development",
+    "stack": ["React", "Redux", "Node.JS", "TypeScript"],
+    "jobTypes": ["Front-end", "Full Stack"],
+    "buyType": ["Prepayment", "Per hour payment"]
+  },
+  {
+    "id": 1,
+    "imgUrl": "ssilka",
+    "title": "Php Development",
+    "stack": ["Php"],
+    "jobTypes": ["From Zero", "Edit Project"],
+    "buyType": ["Prepayment", "Per hour payment"]
+  },
+  {
+    "id": 2,
+    "imgUrl": "ssilka",
+    "title": "Html + CSS + JS",
+    "stack": ["HTML", "CSS", "SCSS", "LESS", "PUG", "JavaScript"],
+    "jobTypes": ["From Zero", "Edit Project"],
+    "buyType": ["Prepayment", "Per hour payment"]
+  },
+  {
+    "id": 3,
+    "imgUrl": "ssilka",
+    "title": "React Education",
+    "stack": ["React"],
+    "jobTypes": ["With Mentor", "Solo Education"],
+    "buyType": ["Prepayment", "By Instalments"]
+  },
+  {
+    "id": 4,
+    "imgUrl": "ssilka",
+    "title": "Front-end Developer Education",
+    "stack": ["React", "Redux", "JavaScript", "HTML", "CSS"],
+    "jobTypes": ["With Mentor", "Solo Education", "Group Education"],
+    "buyType": ["Prepayment", "By Instalments"]
+  }
+]
